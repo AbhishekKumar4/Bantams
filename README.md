@@ -14,3 +14,6 @@ Small but important code chunks
 - MongoDB Atlas has a free tier with a 3-node replica set and 512MB storage.
 - Redis Labs offers a 30MB Redis instance for free.
 - Heroku Postgres has a free tier limited to 10k individual rows of data.
+
+# If need to store queries in properties [Queries.java]
+
